@@ -1,0 +1,259 @@
+# RedPower 2 Default Language
+
+tile.rpafurnace.name=Alloy Furnace
+tile.rpbafurnace.name=Blulectric Alloy Furnace
+tile.rpcharge.name=Charging Bench
+
+item.handsawIron.name=Iron Handsaw
+item.handsawDiamond.name=Diamond Handsaw
+item.handsawRuby.name=Ruby Handsaw
+item.handsawGreenSapphire.name=Green Sapphire Handsaw
+item.handsawSapphire.name=Sapphire Handsaw
+
+item.screwdriver.name=Screwdriver
+
+item.ingotRed.name=Red Alloy Ingot
+item.ingotBlue.name=Blue Alloy Ingot
+item.ingotBrass.name=Brass Ingot
+item.ingotSilver.name=Silver Ingot
+item.ingotTin.name=Tin Ingot
+item.ingotCopper.name=Copper Ingot
+item.nikolite.name=Nikolite
+
+item.nuggetIron.name=Iron Nugget
+item.nuggetSilver.name=Silver Nugget
+item.nuggetTin.name=Tin Nugget
+item.nuggetCopper.name=Copper Nugget
+
+item.dyeIndigo.name=Indigo Dye
+item.ruby.name=Ruby
+item.greenSapphire.name=Green Sapphire
+item.sapphire.name=Sapphire
+
+tile.rpwire.name=Red Alloy Wire
+tile.bluewire.name=Blue Alloy Wire
+tile.bluewire10.name=10kV Wire
+tile.bluewire1M.name=1MV Wire
+tile.rpcable.name=Bundled Cable
+
+tile.indigo.name=Indigo Flower
+tile.rubbersapling.name=Rubber Sapling
+item.seedFlax.name=Flax Seeds
+
+item.pickaxeRuby.name=Ruby Pickaxe
+item.pickaxeGreenSapphire.name=Green Sapphire Pickaxe
+item.pickaxeSapphire.name=Sapphire Pickaxe
+item.shovelRuby.name=Ruby Shovel
+item.shovelGreenSapphire.name=Green Sapphire Shovel
+item.shovelSapphire.name=Sapphire Shovel
+item.axeRuby.name=Ruby Axe
+item.axeGreenSapphire.name=Green Sapphire Axe
+item.axeSapphire.name=Sapphire Axe
+item.swordRuby.name=Ruby Sword
+item.swordGreenSapphire.name=Green Sapphire Sword
+item.swordSapphire.name=Sapphire Sword
+item.hoeRuby.name=Ruby Hoe
+item.hoeGreenSapphire.name=Green Sapphire Hoe
+item.hoeSapphire.name=Sapphire Hoe
+
+item.sickleWood.name=Wood Sickle
+item.sickleStone.name=Stone Sickle
+item.sickleIron.name=Iron Sickle
+item.sickleDiamond.name=Diamond Sickle
+item.sickleGold.name=Gold Sickle
+item.sickleRuby.name=Ruby Sickle
+item.sickleGreenSapphire.name=Green Sapphire Sickle
+item.sickleSapphire.name=Sapphire Sickle
+
+tile.marble.name=Marble
+tile.basalt.name=Basalt
+tile.marbleBrick.name=Marble Brick
+tile.basaltCobble.name=Basalt Cobblestone
+tile.basaltBrick.name=Basalt Brick
+tile.basaltCircle.name=Chiseled Basalt Brick
+tile.basaltPaver.name=Basalt Paver
+
+tile.oreRuby.name=Ruby Ore
+tile.oreGreenSapphire.name=Green Sapphire Ore
+tile.oreSapphire.name=Sapphire Ore
+tile.oreSilver.name=Silver Ore
+tile.oreTin.name=Tin Ore
+tile.oreCopper.name=Copper Ore
+tile.oreTungsten.name=Tungsten Ore
+tile.oreNikolite.name=Nikolite Ore
+tile.rplog.name=Rubberwood
+
+tile.rplightsensor.name=Light Sensor
+tile.rpibutton.name=Iron Button
+
+item.irwafer.name=Stone Wafer
+item.irwire.name=Stone Wire
+item.iranode.name=Stone Anode
+item.ircathode.name=Stone Cathode
+item.irpointer.name=Stone Pointer
+item.irredwire.name=Stone Redwire
+item.irplate.name=Plate Assembly
+item.irchip.name=Silicon Chip
+item.irtchip.name=Tainted Silicon Chip
+item.irbundle.name=Stone Bundle
+
+tile.rpainv.name=Invert Cell
+tile.rpaninv.name=Non-Invert Cell
+tile.rpanc.name=Null Cell
+
+tile.irtimer.name=Timer
+tile.irseq.name=Sequencer
+tile.irstate.name=State Cell
+tile.irnor.name=NOR Gate
+tile.iror.name=OR Gate
+tile.irnand.name=NAND Gate
+tile.irand.name=AND Gate
+tile.irxnor.name=XNOR Gate
+tile.irxor.name=XOR Gate
+tile.irtoggle.name=Toggle Latch
+tile.irpulse.name=Pulse Former
+tile.irlatch.name=RS Latch
+tile.irnot.name=NOT Gate
+tile.irbuf.name=Buffer Gate
+tile.irmux.name=Multiplexer
+tile.ircounter.name=Counter
+tile.irrepeater.name=Repeater
+tile.irsync.name=Synchronizer
+tile.irrand.name=Randomizer
+tile.irdlatch.name=Transparent Latch
+tile.irbusxcvr.name=Bus Transceiver
+
+tile.rpdeploy.name=Deployer
+tile.rpbreaker.name=Block Breaker
+tile.rptranspose.name=Transposer
+tile.rpfilter.name=Filter
+tile.rpsorter.name=Sorting Machine
+tile.rptube.name=Pneumatic Tube
+tile.rprstube.name=Redstone Tube
+tile.rprtube.name=Restriction Tube
+tile.rpmtube.name=Magtube
+tile.rppipe.name=Fluid Pipe
+
+tile.rpleaves.name=Leaves
+
+tile.rpbfurnace.name=Blulectric Furnace
+tile.rpitemdet.name=Item Detector
+tile.rpsolar.name=Solar Panel
+tile.rpkgen.name=Kinetic Generator
+tile.rppump.name=Pump
+tile.rpaccel.name=Accelerator
+tile.rpgrate.name=Grate
+
+item.bouleSilicon.name=Silicon Boule
+item.waferSilicon.name=Silicon Wafer
+item.waferBlue.name=Blue-Doped Wafer
+item.waferRed.name=Red-Doped Wafer
+item.tinplate.name=Tinplate
+
+tile.rpframe.name=Support Frame
+tile.rptframe.name=Tube Frame
+tile.rprtframe.name=Redstone Tube Frame
+
+item.paintbrush.dry.name=Paint Brush
+item.paintcan.empty.name=Paint Can
+item.voltmeter.name=Voltmeter
+item.btbattery.name=BT Battery
+item.sonicDriver.name=Sonic Screwdriver
+
+tile.rpbatbox.name=Battery Box
+tile.rpmotor.name=Frame Motor
+tile.rpretriever.name=Retriever
+
+tile.blockRuby.name=Ruby Block
+tile.blockGreenSapphire.name=Green Sapphire Block
+tile.blockSapphire.name=Sapphire Block
+tile.blockSilver.name=Silver Block
+tile.blockTin.name=Tin Block
+tile.blockCopper.name=Copper Block
+
+tile.rpbuffer.name=Buffer
+tile.rpregulate.name=Regulator
+tile.rpabench.name=Project Table
+tile.rpthermo.name=Thermopile
+tile.rpignite.name=Igniter
+tile.rpassemble.name=Assembler
+tile.rpeject.name=Ejector
+tile.rprelay.name=Relay
+
+item.woolcard.name=Wool Card
+item.athame.name=Athame
+enchantment.damage.disjunction=Disjunction
+enchantment.damage.vorpal=Vorpal
+
+item.disk.name=Blank Floppy
+item.disk.forth.name=FORTH Boot Disk
+item.disk.forthxp.name=Extended FORTH Disk
+item.drawplateDiamond.name=Diamond Drawplate
+item.finecopper.name=Fine Copper Wire
+item.fineiron.name=Fine Iron Wire
+item.coppercoil.name=Copper Coil
+item.btmotor.name=Blulectric Motor
+
+tile.rpbackplane.name=Backplane
+tile.rpram.name=8K RAM Module
+tile.rpdisplay.name=Monitor
+tile.rpcpu.name=Central Processing Unit
+tile.rpdiskdrive.name=Disk Drive
+tile.rpioexp.name=IO Expander
+tile.ribbon.name=Ribbon Cable
+
+item.planBlank.name=Blank Plan
+item.rpcanvas.name=Canvas
+item.windSailWood.name=Wooden Sail
+item.windTurbineWood.name=Wooden Wind Turbine
+item.windmillWood.name=Wooden Windmill
+item.rpBag.name=Canvas Bag
+item.rpSeedBag.name=Seed Bag
+
+tile.rpsortron.name=Sortron
+tile.rpmanager.name=Manager
+tile.rptransformer.name=Voltage Transformer
+
+tile.rpbtengine.name=Blulectric Engine
+item.rpbgear.name=Brass Gear
+
+# Achievements
+achievement.rpMakeAlloy=Mixed Metal Surprise
+achievement.rpMakeAlloy.desc=Build an alloy furnace
+
+achievement.rpMakeSaw=It Slices, it Dices
+achievement.rpMakeSaw.desc=Craft a diamond handsaw
+
+achievement.rpIngotRed=Won't Blow Away!
+achievement.rpIngotRed.desc=Smelt a red alloy ingot
+
+achievement.rpIngotBlue=Now in Blueberry!
+achievement.rpIngotBlue.desc=Smelt a blue alloy ingot
+
+achievement.rpIngotBrass=Brass Monkey
+achievement.rpIngotBrass.desc=Smelt a brass ingot
+
+achievement.rpAdvBench=Civilized Crafting
+achievement.rpAdvBench.desc=Construct a project table
+
+achievement.rpBreaker=OM NOM NOM!
+achievement.rpBreaker.desc=Build a block breaker
+
+achievement.rpDeploy=Steve in a Box
+achievement.rpDeploy.desc=Build a deployer
+
+achievement.rpTranspose=Dual Cyclonic Action!
+achievement.rpTranspose.desc=Build a transposer
+
+achievement.rpFrames=I Like to Move it, Move it.
+achievement.rpFrames.desc=Build a Frame Motor
+
+achievement.rpPump=I Drink Your Milkshake!
+achievement.rpPump.desc=Build a Pump
+
+# Groups
+itemGroup.RPLights=RedPower Lighting
+itemGroup.RPWires=RedPower Wiring and Logic
+itemGroup.RPMicroblocks=RedPower Microblocks
+itemGroup.RPMachines=RedPower Machinery
+
